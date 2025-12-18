@@ -22,15 +22,18 @@ Comprehensive Exploratory Data Analysis (EDA) of a banking dataset featuring 3,0
 ## Visualizations
 
 ### 1. Feature Distributions
-![Univariate Analysis](Bank-plt.png)
+<img width="1500" height="1000" alt="Bank-plt" src="https://github.com/user-attachments/assets/8ffd8e4c-d6e1-4642-8684-018496fc232e" />
+
 [cite_start]*Histograms and KDE plots showing the distribution of age, income, and account balances across the dataset[cite: 1040, 1041].*
 
 ### 2. Correlation Matrix
-![Heatmap](Bank-heatmap.png)
+<img width="1200" height="1000" alt="Bank-heatmap" src="https://github.com/user-attachments/assets/10dda7d5-f5b8-4c33-a72b-602fc452b479" />
+
 [cite_start]*A coolwarm heatmap visualizing the strength of relationships between numerical features[cite: 726].*
 
 ### 3. Financial Relationships
-![Regression Analysis](pairs_to_plt.png)
+<img width="800" height="600" alt="pairs_to_plt" src="https://github.com/user-attachments/assets/e474f892-fc3b-49c4-a99d-46ca37bfa627" />
+
 [cite_start]*Regression plots analyzing key pairs such as Deposits vs. Savings and Income vs. Checking Accounts[cite: 728, 729].*
 
 ## How to Run
